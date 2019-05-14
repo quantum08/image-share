@@ -1,0 +1,18 @@
+body {
+  padding:60px;
+  font-family: sans-serif;
+
+}
+
+.thumbnail{
+	
+	min-height:500px;
+	max-height:500px;
+}
+.thumbnail-img{
+	max-height: 300px;
+}
+
+.single-image{
+	max-width:100%;
+}
